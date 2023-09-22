@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/eco12/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ecor12/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure Virtual Machines](https://github.com/ecor12/configure-ad)
+  - [Configuring Active Directory within Azure Virtual Machines](https://github.com/ecor12/active-dir)
 
 
 <h2>Connect with me:</h2>
